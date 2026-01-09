@@ -1,0 +1,17 @@
+# Compiled binary
+game
+
+# Compiled objects
+*.o
+*.obj
+*.exe
+*.out
+
+# IDE (keep .vscode for project config)
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
